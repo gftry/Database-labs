@@ -132,4 +132,6 @@ The four members' recorded contributions are included in the companion [data dic
 
 [SAIT Brightspace: Class Activity - Designing a Logical Database](https://learn.sait.ca/d2l/le/lessons/886971/topics/21946635).
 
-OpenAI Codex assisted with drafting and revising the EERD, business rules, data dictionary, normalization explanations and document formatting. The contribution table reproduces the team's supplied records; it does not assign additional work to individual members. This disclosure identifies the assistance used in preparing these materials.
+OpenAI Codex supplemented and refined the business rules and data dictionary, assisted with document formatting and
+normalization explanations, and refined the EERD. The contribution records above were supplied by the team.
+
